@@ -1,5 +1,5 @@
-# Activate the venv for this project from jangmadin directory
+# Activate the venv for this project from jangmadin directory use command
 source ../appjm/bin/activate
 
-# For deactivate venv
+# For deactivate venv use command
 deactivate
