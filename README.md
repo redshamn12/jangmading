@@ -1,5 +1,5 @@
 # jangmading
-Simple Blog with Django Framework<br>
+Simple Blog with Django Framework<br><br>
 ![jangmading Demo](./DEMO.gif)
 
 Django Admin credentials<br>
